@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(SnakeGame2.0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  food.cpp
+  Snake.cpp
+c:\users\王思谦\source\repos\snakegame2.0\snakegamebata\snake.cpp(19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  SnakeGameBata.cpp
+  正在生成代码...
+  SnakeGameBata.vcxproj -> C:\Users\王思谦\source\repos\SnakeGame2.0\x64\Debug\SnakeGame.exe

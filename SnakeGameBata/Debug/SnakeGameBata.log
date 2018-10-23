@@ -1,0 +1,3 @@
+﻿  Snake.cpp
+c:\users\王思谦\source\repos\snakegamebata\snakegamebata\snake.cpp(19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  SnakeGameBata.vcxproj -> C:\Users\王思谦\source\repos\SnakeGameBata\Debug\SnakeGameBata.exe
